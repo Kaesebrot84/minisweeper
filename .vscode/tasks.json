@@ -1,0 +1,10 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "(debug-linux) minisweeper build",
+            "type": "shell",
+            "command": "rm -rf build && ./build.sh"
+        }
+    ]
+}
